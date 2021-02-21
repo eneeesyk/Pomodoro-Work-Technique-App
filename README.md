@@ -15,3 +15,4 @@ I've created a pomodoro work technique app with python. If you dont know what is
 - ![](https://github.com/eneeesyk/Pomodoro-Work-Technique-App/blob/main/screenshots/pomodoro.JPG)
 - ![](https://github.com/eneeesyk/Pomodoro-Work-Technique-App/blob/main/screenshots/pomodoro2.JPG)
 - ![](https://github.com/eneeesyk/Pomodoro-Work-Technique-App/blob/main/screenshots/pomodoro3.JPG)
+- ![](https://github.com/eneeesyk/Pomodoro-Work-Technique-App/blob/main/screenshots/pomodoro4.JPG)
