@@ -1,5 +1,5 @@
 # Pomodoro Work Technique App
-I've created a pomodoro work technique app with python. If you dont know what is pomodoro technique you have to check that out this ![link](https://en.wikipedia.org/wiki/Pomodoro_Technique). You are gonna love that app if you want to work more effective!
+I've created a pomodoro work technique app with python. If you dont know what is pomodoro technique you have to check that out this [link](https://en.wikipedia.org/wiki/Pomodoro_Technique). You are gonna love that app if you want to work more effective!
 
 ## Works principle
 - 25 minutes for work. The app says in the top what you would do.
