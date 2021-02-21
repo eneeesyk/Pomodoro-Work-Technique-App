@@ -12,3 +12,6 @@ I've created a pomodoro work technique app with python. If you dont know what is
 - When you think you are ready go and click the start button.
 
 ## Screenshots
+- ![](https://github.com/eneeesyk/Pomodoro-Work-Technique-App/blob/main/screenshots/pomodoro.JPG)
+- ![](https://github.com/eneeesyk/Pomodoro-Work-Technique-App/blob/main/screenshots/pomodoro2.JPG)
+- ![](https://github.com/eneeesyk/Pomodoro-Work-Technique-App/blob/main/screenshots/pomodoro3.JPG)
